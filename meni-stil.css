@@ -46,7 +46,7 @@ h1{
   border: 2px solid rgb(0, 0, 0);
   border-radius: 30px;
   font-size: 1vw;
-  height: 100px;
+  height: 200px;
   background-image: url('img/peciva2.jpg');
   background-size: cover;
 }
@@ -63,7 +63,7 @@ h1{
   border: 2px solid rgb(0, 0, 0);
   border-radius: 30px;
   font-size: 4.5vw;
-  height: 100px;
+  height: 200px;
   background-image: url('img/burek1.jpg');
   background-size: cover;
 }
@@ -80,7 +80,7 @@ h1{
   border: 2px solid rgb(0, 0, 0);
   border-radius:  30px;
   font-size: 4.5vw;
-  height: 100px;
+  height: 200px;
   background-image: url('img/rostilj1.jpg');
   background-size: cover;
 }
@@ -97,7 +97,7 @@ h1{
   border: 2px solid rgb(0, 0, 0);
   border-radius:  30px;
   font-size: 4.5vw;
-  height: 100px;
+  height: 200px;
   background-image: url('img/cola1.jpg');
   background-size: cover;
 }
